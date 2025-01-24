@@ -1,12 +1,12 @@
 "use client";
 
-import Head from "next/head";
-import * as Sentry from "@sentry/nextjs";
+// import Head from "next/head";
+// import * as Sentry from "@sentry/nextjs";
 
 export default function Page() {
   return (
     <div>
-      <Head>
+      {/* <Head>
         <title>Sentry Onboarding</title>
         <meta name="description" content="Test Sentry for your Next.js app!" />
       </Head>
@@ -73,7 +73,7 @@ export default function Page() {
             https://docs.sentry.io/platforms/javascript/guides/nextjs/
           </a>
         </p>
-      </main>
+      </main> */}
     </div>
   );
 }
