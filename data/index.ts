@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Frontend Engineer Intern",
-        desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+        title: "Full Stack Engineer Intern",
+        desc: "Assisted in the development of a web-based NEWS Platform using React.js & Firebase, enhancing interactivity.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Mobile App Dev - JSM Tech",
-        desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+        title: "Mobile App Dev",
+        desc: "Designed and developed mobile app for Android platforms using React Native.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
         title: "Freelance App Dev Project",
-        desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+        desc: "Led the dev of a Django app for a client, from initial concept to deployment.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp3.svg",
     },
     {
         id: 4,
-        title: "Lead Frontend Developer",
-        desc: "Developed and maintained user-facing features using modern frontend technologies.",
+        title: "Lead Developer",
+        desc: "Lead the development of Price Comparision site for products on various Ecommerce in SIH Hackathon",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },
@@ -205,13 +205,16 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
+        url: 'https://github.com/shivampri2002',
     },
     {
         id: 2,
         img: "/twit.svg",
+        url: 'https://www.x.com',
     },
     {
         id: 3,
         img: "/link.svg",
+        url: 'https://www.linkedin.com/in/shivam-priyadarshi-217473289/',
     },
 ];
